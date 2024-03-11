@@ -1,9 +1,9 @@
 # 📦 Streamlit App Starter Kit 
 ```
-⬆️ (Replace above with your app's name)
+Jessica Liu's Streamlit App
 ```
 
-Description of the app ...
+This is my chatbot test on 3/11/2024
 
 ## Demo App
 
@@ -15,7 +15,7 @@ Description of the app ...
 
 ## Section Heading
 
-This is filler text, please replace this with text for this section.
+This is my Section Heading....
 
 ## Further Reading
 
